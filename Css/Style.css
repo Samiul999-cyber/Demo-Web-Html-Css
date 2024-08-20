@@ -1,0 +1,163 @@
+
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.content{
+   background: rgb(43, 41, 41);
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
+    align-items: center;
+    border-radius: 10px;
+}
+ .navbar-side ul{
+    display: flex;
+    gap: 80px;
+    list-style-type: none;
+ }
+
+ .navbar-side ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+ }
+
+ .more-button{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 10px;
+   padding-right: 100px;
+ }
+
+ .more-button a{
+   font-size: 20px;
+   color: white;
+   padding: 100px;
+   text-decoration: none;
+ }
+
+
+
+
+
+
+
+ 
+ .content-fast{
+   display: flex;
+   justify-content: space-between;
+   margin: 120px;
+   gap: 50px;;
+ }
+ .icon-img{
+   box-shadow: 4px  4px 4px rgb(87, 77, 77) ;
+   width: 250px;
+   height: 160px;
+   border: 1px solid rgb(238, 10, 10);
+   border-radius: 10px;
+   background: rgb(235, 234, 234);
+ }
+
+
+
+.icon-img image{
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+
+
+
+.content-text p{
+   font-size: 40px;
+
+   
+}
+
+.form-input-radio{
+   font-size: 18px;
+   margin-top: 25px;
+   margin-bottom: 25px;
+   text-align: justify;
+
+}
+.form-number input{
+   width: 280px;
+   height: 50px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 8px;
+   font-size: 15px;
+   text-align: justify;
+
+}  
+  .Recharge-button a button{
+     font-size: 20px;
+     width: 150px;
+     padding: 10px;
+     border-radius: 30px;
+     background: white;
+     color: blueviolet;
+      
+  } 
+
+ .form{
+   display: flex;
+   justify-content: space-around;
+   margin: 50px;
+   align-items: center;
+ }
+
+
+
+
+ 
+.header-second p{
+   font-size: 30px;
+   color: white;
+}
+ 
+.header-second input{
+   padding: 8px;
+   border-radius: 8px;
+}
+
+.S-m{
+   background: red;
+   padding: 20px;
+   text-align: center;
+     
+}
+
+  
+
+
+
+.main-head{
+   display: flex;
+   justify-content: space-around;
+   margin: 50px;
+   gap: 30px;
+}
+
+.content-item img{
+   width: 300px;
+   height: 260px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+    
+}
+
+.main-head p{
+   font-size: 20px;
+   color: blueviolet;
+   text-align: center;
+}
+
+
+
